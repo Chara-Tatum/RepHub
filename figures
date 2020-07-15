@@ -1,0 +1,14 @@
+Algorithm prioritized white patients:
+
+An algorithm by Optum was designed to assign a risk value to patients in order to prioritize those who might need extra care. However, black people tended to be marked as “lower risk” than white patients by algorithm, and thus they were not assigned extra care.
+One of the variables used by the algorithm was the amount of money spent on health care per year.
+On average, money spent on health care by black people was $1800 less per year than the amount spent by white people with similar health problems.
+
+Proportion of patients that were assigned extra care who were black: 17.7%
+Estimated proportion of patients that needed extra care who were black: 46.5%
+
+Using health care spending as a variable in this algorithm made it biased because it can be directly tied to systemic racism.
+When building ML algorithms, it’s important to examine each individual variable for biases.
+
+
+Stats and figures:
