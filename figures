@@ -10,5 +10,12 @@ Estimated proportion of patients that needed extra care who were black: 46.5%
 Using health care spending as a variable in this algorithm made it biased because it can be directly tied to systemic racism.
 When building ML algorithms, it’s important to examine each individual variable for biases.
 
+Tying it all together:
+A higher proportion of black people report fair/poor health condition, a higher proportion of black infants die, a higher proportion of the black population is being hospitalized for COVID-19. So why aren’t black people getting the health care they need?
+
+Possible solutions:
+	Better data. We need data that better represents all parties involved in these algorithms. Algorithms such as this one often rely on incomplete data, forcing it to make false assumptions about underrepresented minority peoples and topics.
+	Transparency. Companies and government programs that intend to use algorithms to make predictions need to make them public and hold them accountable for racially biased algorithms - intentional or not.
+	Understand the data. In our example, the problem was a result of the program developers failing to recognize the role that systemic racism played in their variables. By recognizing and understanding these “hidden biases”, we are less likely to perpetuate disparity in code.
 
 Stats and figures:
