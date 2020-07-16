@@ -1,0 +1,26 @@
+
+.column {
+    padding: 0px 20px 0px 20px;
+    overflow: auto;
+    text-align:center;
+    float: left;
+    width: 33.33%;
+    font-family: 'Lato', sans-serif;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+    }
+  }
+
+  
+  /* Clear floats after the columns */
+  .row:after { 
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  
+  
