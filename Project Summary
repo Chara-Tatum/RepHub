@@ -1,0 +1,11 @@
+One of the biggest and most relevant problems in tech today is dealing with bias in Machine Learning and Artificial Intelligence. In Machine Learning, the problems can start before any analysis even happens. Naturally, our own subconscious biases will affect anything that we say and do, but surely data is objective, right?
+	
+The problem is that, even if data is objective, Machine Learning is not; to learn anything, these models have to make a great deal of assumptions, so dealing with data involving topics such as race can lead to discrimination and bias. Models recognize patterns, but not their causes, and make decisions based on those patterns. If a model finds a pattern correlating to race, its predictions will likely become biased and unfair toward a particular race.
+	
+Of course, the first step in solving a problem is to recognize its existence, which is why our goal is to educate others on the reality of the racial biases in data that is collected every day. These data may be factually correct, however they do not account for the history or context of the patterns that they record, leading many Machine Learning algorithms to make decisions that disproportionately affect people of color.
+	
+    
+Our project was to build a website that illustrates these truths with the very same data that can lead to biased models. It serves as a one stop place to learn and view studies prove the dangers and potential biases of Machine Learning algorithms. Specifically, it serves to educate others about the dangers of these algorithms in health care. When algorithms make mistakes on who gets what care and when, people can lose their lives. We want the healthcare industry to be more open and honest about what are often unintentional mistakes, and to protect these lives at stake by bringing this problem to light.
+
+Our next steps are to add the WHO healthcare database in the backend of the site so people will be able to view the progression of these problems over time, and hopefully see them improve in the coming years.
+
